@@ -73,6 +73,7 @@ Execute os scripts principais:
 
 ```bash
 node .\index.js
+node .\index2.js
 ```
 
 O script exibirá o desempenho de todos os algoritmos em diferentes cenários.
