@@ -124,7 +124,7 @@ O script exibirá o desempenho de todos os algoritmos em diferentes cenários.
 * **Pior caso (O(n²))**: pivô sempre mínimo ou máximo, exigindo muitas comparações.
 
 ---
-1 Ambiente de Teste
+## Ambiente de Teste
 Os códigos de ordenação podem ser executados em qualquer computador ou notebook.
 No entanto, para a análise prática e considerações sobre o desempenho, os testes
 foram realizados em um notebook Acer Nitro V15 com as seguintes especificações:
