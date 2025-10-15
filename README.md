@@ -1,12 +1,7 @@
-Perfeito! Vou refazer seu README, organizando e estendendo a análise para **todos os algoritmos de ordenação** presentes no seu projeto: Selection Sort, Quick Sort, Bubble Sort, Insertion Sort, Merge Sort e Heap Sort. Vou manter o estilo didático e prático, com seções claras e exemplos de desempenho.
-
-Segue a versão refeita:
-
----
 
 # 🧮 Análise Comparativa — Algoritmos de Ordenação
 
-Projeto desenvolvido em **JavaScript (Node.js)** para análise teórica e prática dos principais algoritmos de ordenação, incluindo:
+Projeto desenvolvido em **JavaScript (Node.js)** para análise teórica e prática dos principais algoritmos de ordenação, que incluindo:
 
 * **Selection Sort**
 * **Quick Sort**
