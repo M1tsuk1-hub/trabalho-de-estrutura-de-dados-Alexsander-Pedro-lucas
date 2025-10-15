@@ -138,3 +138,11 @@ Memória RAM: 8 GB DDR5
 Placa de Vídeo: NVIDIA GeForce RTX 3050 com 6 GB de VRAM
 Essas especificações fornecem um contexto para a capacidade 
 de processamento e memória disponível ao executar e comparar os algoritmos.
+
+Disciplina: 
+Estrutura de Dados
+
+Autores: 
+ Alexsander R. dos Santos 
+ Lucas Silva 
+ Pedro Babier
